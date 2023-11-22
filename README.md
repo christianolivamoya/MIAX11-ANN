@@ -21,7 +21,7 @@ Autores:
 ## Temario
 
 * **Bloque 1: Introducción a numpy: Broadcasting**
-  * Notebook *1_1_intro*. Ejercicios de numpy.
+  * Notebook *1_1_intro*. Introcucción al curso. Ejercicios básicos de numpy.
 
 * **Bloque 2: Regresión Lineal y Regresión Logística mediante descenso por gradiente**
   * Notebook *2_1_linear_regression*. Implementación manual de una regresión lineal. Comparación con `LinearRegressor` y `SGDRegressor` de Sklearn.
