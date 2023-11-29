@@ -29,3 +29,15 @@ Autores:
 
 * **Bloque 3: Redes neuronales artificiales**
   * Notebook *3_1_red_neuronal_completa*. Implementación manual de una red neuronal completa para clasificación y regresión.
+  
+* **Bloque 4: Tensorflow**
+  * Notebook *4_1_intro_tensorflow*. Introducción a tensorflow. Implementación de una red neuronal completa para clasificación y regresión con tensorflow.
+  * Notebook *4_2_problema_multiclase*. One-vs-Rest frente a Softmax en problemas multiclase con tensorflow.
+  
+* **Bloque 5: Keras**
+  * Notebook *5_1_intro_keras*. Introducción a Keras. Introducción a búsqueda de hiperparámetros: *learning rate*, *batch size*, *loss function*, *activation function*, *regularization*, *dropout*.
+  * Notebook *5_2_optimizers*. Visualización de diferentes optimizadores.
+  * Notebook *5_3_gridsearch*. Ejemplo de un modelo KerasClassifier, GridsearchCV y EarlyStopping.
+  * Notebook *5_4_keras_tuner*. Optimización de hiperparámetros. Introducción a Keras Tuner.
+  * Notebook *5_5_optimizacion_hiperparametros_keras*. Notebook completo de búsqueda de hiperparámetros. Es la continuación de *5_2_intro_keras* en la parte práctica.
+  
